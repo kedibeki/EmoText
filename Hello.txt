@@ -1,1 +1,0 @@
-"Hello user, Welcome to my app, Emotext: This app will let you to recognize emotions from the text file from upload, url or from text box."
